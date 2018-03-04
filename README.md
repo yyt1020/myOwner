@@ -1,6 +1,4 @@
-# echarts-componnet
-
-> echarts componnets from enmo
+# 
 
 ## Build Setup
 
